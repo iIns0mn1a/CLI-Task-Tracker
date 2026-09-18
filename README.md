@@ -1,5 +1,5 @@
 # ✅CLI Task Tracker✅
-A task tracker working through a command line.
+A task tracker working through a command line. Following [this](https://roadmap.sh/projects/task-tracker) project.
 
 ## list of things to do
 
